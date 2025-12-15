@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notas Por Categoria</string>
+    <string name="add_new_category">Agregar nueva categoría</string>
+</resources>
